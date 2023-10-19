@@ -1,2 +1,4 @@
-package org.lessons.java;public class Snack4 {
+package org.lessons.java;
+
+public class Snack4 {
 }
